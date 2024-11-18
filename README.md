@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning MLOps
 - 💞️ I’m looking to collaborate on MLOps
 - 📫 How to reach me chadda.rohit@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: HAHAHA 
 
 <!---
